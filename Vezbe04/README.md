@@ -1,6 +1,8 @@
 # Vežbe 4 - Rad sa ORM i bazom podataka
 
 ## jpa-example
+## VIDEO:
+(https://www.youtube.com/watch?v=co4hQuh3YmU)
 
 Za potrebe razumevanja primera potrebno je prethodno odgledati predavanja:
 
