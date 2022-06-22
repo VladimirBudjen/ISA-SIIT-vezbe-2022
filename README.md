@@ -1,7 +1,7 @@
 # ISA-SIIT-vezbe-2022
 _________________________________________
 Obaveštenje (22.6.2022.)
-Stari studenti koji izlaze 24. 6. 2022. (petak) i polažu samo ISU (bez mrs-a) treba da se jave asistentima na mail-u, da bi dobili termin.
+Stari studenti koji izlaze 24. 6. 2022. (petak) i polažu samo ISU (bez mrs-a), treba da se jave asistentima na mail-u, da bi dobili termin.
 
 Obaveštenje (30.3.2022.)
 U subotu 3.4.2022. nećete imati vežbe, snimak vežbe ću okačiti u folder Vežbe4.
