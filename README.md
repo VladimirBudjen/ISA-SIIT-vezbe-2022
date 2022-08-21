@@ -1,5 +1,16 @@
 # ISA-SIIT-vezbe-2022
 _________________________________________
+Obaveštenje 8.21.2022.
+
+Obaveštavaju se studenti da će se odbrana projekta iz ISA i MRS održati u petak 9. septembra u NTP 307.
+Prijava za odbranu vrši se preko [forme](https://docs.google.com/forms/d/e/1FAIpQLScVyVrmjsjy9xVk5oZG9Rw9gxCFl0qtgtC1loV5Cq8FK0_Png/viewform).
+Prijave i rad na projektu su mogući do 6.9.2022. u 23:59:59
+Po završetku roka za izradu projekta, repozitorijume obavezno postavite na public. Naknadne prijave neće se uvažiti.
+
+Maksimalna ocena iz oba predmeta je 6.
+
+Raspored timova po terminima biće postavljen po završetku roka za prijavu.
+
 Obaveštenje (22.6.2022.)
 Stari studenti koji izlaze 24. 6. 2022. (petak) i polažu samo ISU (bez mrs-a), treba da se jave asistentima email-om, da bi dobili termin.
 
